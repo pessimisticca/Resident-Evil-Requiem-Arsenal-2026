@@ -125,4 +125,3 @@ Variant Focus: 29-option all-in-one gameplay control center
 ## Disclaimer
 
 Independent community project; not affiliated with Capcom, Valve, FLiNG, or WeMod.
-                                                                                                    
